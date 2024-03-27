@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá! Me chamo Henrique 👋
 
-<!--
-**henrriquesilva/henrriquesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### -📖 Curso Integrado de Informática // Instituto Federal de São Paulo
+  
+- 🌱 Estou estudando TI
 
-Here are some ideas to get you started:
+### - 🖥️ Concluidos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - ☑️  Algoritmo e Programação (Lógica de Programação);
+    
+    - ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript;
+
+    - ☑️  Gerenciamento de Banco de Dados I | PostgreSQL;
+
+    - ☑️  Hardware.
+
+    - ☑️ Sistemas Operacionais e Terminal Linux;
+
+    - ☑️ Análise e Projeto de Sistemas
+
+    - ☑️ Desenvolvimento de Web Sites II;
+
+    - ☑️ Gerenciamento de Banco de Dados II;
+
+    - ☑️ Linguagem de Programação;
+
+    - ☑️ Projeto Integrador II;
+
+    - ☑️ Redes de Computadores;
+
+- 😄 Pronouns: ele/dele
+
+
